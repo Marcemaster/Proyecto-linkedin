@@ -51,6 +51,7 @@ function validaSkills() {
 
 */
 
-
+// Para volver a la página anterior
+history.back()
 
 
